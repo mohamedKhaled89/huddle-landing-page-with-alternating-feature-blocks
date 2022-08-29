@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/mohamedKhaled89/huddle-landing-page-with-single-introductory-section]
-- Live Site URL: [https://mohamedkhaled89.github.io/huddle-landing-page-with-single-introductory-section/]
+- Solution URL: [https://github.com/mohamedKhaled89/huddle-landing-page-with-alternating-feature-blocks]
+- Live Site URL: [https://mohamedkhaled89.github.io/huddle-landing-page-with-alternating-feature-blocks/]
 
 ## My process
 
